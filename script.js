@@ -85,7 +85,6 @@ function addMealToDOM(meal) {
             </div>
         </div>
     `
-    console.log(ingredients);
 }
 
 // Event Listeners
